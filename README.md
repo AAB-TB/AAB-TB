@@ -11,7 +11,7 @@ Hi there! 👋 I'm Alvin, a dynamic **Azure .NET Fullstack Developer** with a pa
 - ⚙️ **Azure DevOps Expertise**:
   - Pipelines, Wiki Documentation, Azure Repos, CI/CD, and automated deployments.
 - 💻 **Programming Proficiency**:
-  - C#, C, Java, Python
+  - C#, C, Java, Python, PHP, Wordpress
 - 🖼️ **Cryptography Enthusiast**:
   - Researched **LSB Steganography** and applied techniques in **data security**.
 - 🔥 **Frontend & Backend Stack**:
