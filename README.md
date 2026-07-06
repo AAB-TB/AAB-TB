@@ -12,7 +12,7 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-I build and ship production software end-to-end. Over the past ~1.5 years I designed, built, and now
+I build and ship production software end-to-end. I designed, built, and now
 own a **production SaaS platform on Azure** — a backlink-campaign management system with a **.NET 8
 (Clean Architecture / CQRS) API** and an **Angular SPA**, SQL Server, CRM integration, role-based
 access, and multi-currency billing logic. It went from an empty repo to a system that's **in
