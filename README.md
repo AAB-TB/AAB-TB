@@ -31,8 +31,8 @@ At **Camjo AB** I designed and built the company's backlink campaign SaaS platfo
 - **Cloud & DevOps:** Azure (App Service, Functions, Key Vault, Blob Storage, Application Insights), GitHub Actions, Azure DevOps
 - **Also:** Sanity CMS, WordPress/PHP, Python
 
-### What I'm looking for
-My next role as a Fullstack or .NET Developer in a product team in Stockholm, where I can contribute from day one and keep learning from experienced engineers.
+### What I'm focused on
+Getting better at the craft: deeper .NET and Azure architecture, stronger testing, and building features together with the people who use them. Next up is moving the platform to .NET 10.
 
 ### Education
 - JENSEN Yrkeshögskola: Azure Cloud Developer (YH), 2023–2025
