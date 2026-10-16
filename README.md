@@ -14,7 +14,7 @@
 
 I like building software that people actually use every day.
 
-At **Camjo AB** I designed and built the company's backlink campaign SaaS platform, and I'm still its technical owner. It started as an empty repository in early 2025. Today the team plans, buys, writes and reports in it every morning, and external customers use it too. A frontend developer now helps with the UI, and I also work with other developers on client projects.
+At **Camjo AB** I designed and built the company's backlink campaign SaaS platform, starting from an empty repository in early 2025, and I'm its technical owner today. The team plans, buys, writes and reports in it every morning, and external customers use it too. I set the technical direction and work closely with the other developers on the platform and on our client projects, as well as with the people who use it every day.
 
 ### What that platform looks like
 - **.NET 8 Web API** with Clean Architecture and CQRS (MediatR): 211 endpoints, 33 domain entities, 67 EF Core migrations
