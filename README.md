@@ -1,47 +1,46 @@
 # Alvin Alamgir Berglund
 
-**Fullstack Developer (.NET / Angular) · Stockholm, Sweden**
+**Fullstack Developer · C# .NET, Angular, React, Azure · Stockholm, Sweden**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET 8](https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-I build and ship production software end-to-end. I designed, built, and now
-own a **production SaaS platform on Azure** — a backlink-campaign management system with a **.NET 8
-(Clean Architecture / CQRS) API** and an **Angular SPA**, SQL Server, CRM integration, role-based
-access, and multi-currency billing logic. It went from an empty repo to a system that's **in
-production use today by both internal teams and external customers**.
+I like building software that people actually use every day.
 
-I like owning features from the database to the UI, and making trade-offs with the product in mind —
-not just the code.
+At **Camjo AB** I designed and built the company's backlink campaign SaaS platform, and I'm still its technical owner. It started as an empty repository in early 2025. Today the team plans, buys, writes and reports in it every morning, and external customers use it too. A frontend developer now helps with the UI, and I also work with other developers on client projects.
 
-## 🛠️ What I work with
+### What that platform looks like
+- **.NET 8 Web API** with Clean Architecture and CQRS (MediatR): 211 endpoints, 33 domain entities, 67 EF Core migrations
+- **Angular** frontend for the internal team, plus customer-facing **React** frontends
+- **Azure**: Azure SQL, App Service with staging slots, six scheduled Azure Functions, Key Vault, Application Insights with a health board and alerts
+- **CI/CD**: three GitHub Actions pipelines, 362 automated tests, no manual deploy steps
+- **AI**: categorised about 53,500 domains with the Anthropic Claude Batch API, together with Ahrefs SEO data
+- **Integrations**: Upsales CRM, Google BigQuery to Looker Studio, Mailjet, an integration API with scoped keys
+- **Security**: JWT with refresh-token rotation, role permissions, CSRF protection, encryption of sensitive data
 
-- **Backend:** C#, .NET 8, ASP.NET Core Web API, Clean Architecture, CQRS (MediatR), Entity Framework
-  Core, SQL Server
+### What I work with
+- **Backend:** C#, .NET 8, ASP.NET Core Web API, Entity Framework Core, SQL Server / T-SQL, xUnit
 - **Frontend:** Angular, React, TypeScript, RxJS, Angular Material, Tailwind CSS
-- **Cloud & DevOps:** Azure (App Service, Azure Functions, Key Vault, Blob Storage, Application
-  Insights), GitHub Actions CI/CD, Azure DevOps
-- **Auth & integrations:** JWT + refresh tokens, role-based access, CSRF protection; Upsales CRM sync,
-  Mailjet, Google BigQuery → Looker Studio reporting
+- **Cloud & DevOps:** Azure (App Service, Functions, Key Vault, Blob Storage, Application Insights), GitHub Actions, Azure DevOps
 - **Also:** Sanity CMS, WordPress/PHP, Python
 
-## 🚀 What I'm focused on
+### What I'm looking for
+My next role as a Fullstack or .NET Developer in a product team in Stockholm, where I can contribute from day one and keep learning from experienced engineers.
 
-Growing as a product-minded engineer in a team with strong testing and code-review culture — keeping
-my breadth across the stack while sharpening the craft.
+### Education
+- JENSEN Yrkeshögskola: Azure Cloud Developer (YH), 2023–2025
+- Daffodil International University: B.Sc. Computer Science and Engineering, 2013–2017
 
-## 📄 Research
+### Research
+- *Teaching Portfolios Using Data Mining Based on the WEKA Platform*, IJSER, 2017 · [paper](https://goo.gl/iiGdJ4)
+- *Digital Image Steganography Based on the LSB Method*, IJSER, 2017 · [paper](https://goo.gl/4URqsR)
 
-- *Teaching Portfolios Using Data Mining Based on the WEKA Platform* — IJSER, 2017 · [paper](https://goo.gl/iiGdJ4)
-- *Digital Image Steganography Based on the LSB Method* — IJSER, 2017 · [paper](https://goo.gl/4URqsR)
-
-## 🔗 Connect
-
-[LinkedIn](https://www.linkedin.com/in/alvin-alamgir-a758261b0/) · alvinalamgirberglund@gmail.com
+### Connect
+[LinkedIn](https://www.linkedin.com/in/alvin-alamgir-a758261b0) · alvinalamgirberglund@gmail.com
